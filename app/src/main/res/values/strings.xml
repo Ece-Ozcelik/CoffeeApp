@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CoffeeApp</string>
+    <string name="username">Username</string>
+    <string name="sign_n">Sign İn</string>
+    <string name="welcome_to_coffee_beans">Welcome to Coffee Beans</string>
+    <string name="password">Password</string>
+    <string name="parolam_unuttum">Parolamı Unuttum</string>
+    <string name="yeni_yelik">Yeni Üyelik</string>
+    <string name="new_user">New User</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="s_gn_in">Sıgn In</string>
+    <string name="by_becoming_a_member_and_logging_in_you_accept_the_terms_of_use_and_privacy">By becoming a member and
+        logging in, you accept the Terms of Use and Privacy.
+    </string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="new_account">New Account</string>
+    <string name="login">Login</string>
+    <string name="log_n">Logın</string>
+    <string name="update_my_information">Update My Information</string>
+    <string name="menu">MENU</string>
+    <string name="cafe_latte">Cafe Latte</string>
+    <string name="add_to_list">add to List</string>
+    <string name="_34_99_tl">34.99 TL</string>
+    <string name="latte">Latte</string>
+</resources>

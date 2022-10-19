@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/adamina</item>
+        <item>@font/aguafina_script</item>
+        <item>@font/akaya_telivigala</item>
+        <item>@font/allan</item>
+        <item>@font/arbutus</item>
+        <item>@font/black_han_sans</item>
+        <item>@font/candal</item>
+        <item>@font/caveat_brush</item>
+    </array>
+</resources>
